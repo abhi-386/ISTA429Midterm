@@ -67,3 +67,5 @@ License : MIT License
 ```
 Our final file to run the project with the display of all the required result.
 
+For our report: https://docs.google.com/document/d/1MCLDuSoEgxVEk9BChzzN8zxuc2Mf6TtiNUkkKQ56_IQ/edit?usp=sharing
+
