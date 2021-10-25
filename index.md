@@ -3,7 +3,7 @@
 ISTA 429 Midterm project for MCLAS2021
 
 Team Members:
-  -> Sebastian Calleja
+  -> Sebastian Calleja \n
   -> Hayden Payne
   -> Melanie Hannah Grudinsch
   -> Nik A Pearce
