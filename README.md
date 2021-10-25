@@ -1,2 +1,2 @@
 # ISTA429Midterm
-Git hub Pages repository
+Completre project maintained at: https://github.com/abhi-386/ACIC_2021_Midterm
