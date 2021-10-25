@@ -23,35 +23,47 @@ ISTA 429 Midterm project for MCLAS2021
 Before we get started, you must have a updated your python to the newest release. 
 Download or clone our repository from the given link in the readme. 
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+We have a single main branch in our repository, which holds the following files.
+```
+|- Dir Data
+|- Dir Notebooks
+|- LICENSE
+|- LSTM_model_final.py
+|- README.md
+|- data_prep.py
+|- lstm_traits_prep.py
+|- lstm_weather_prep.py
+```
+Let us explotre our Data directory which contains the following files:
+```
+|- Data 
+   |--Dataset_Competition.zip
+   |--Description.txt
+   |--MergedDataMidterm.csv
+   |--avg_performance_record.csv
+   |--trait_df.csv
+   |--weather_short.csv
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  + Dataset_Competition.zip contains the actual files from the competition. 
 
-### Jekyll Themes
+  + MergedDataMidterm.csv is a merged files combing the all the dataset in our code.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhi-386/ISTA429Midterm/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Moving to our Notebooks directory
+```
+|- Notebooks
+   |--Data_Variable_Exploration.ipynb
+   |--Description.txt
+   |--Final_data_prep.ipynb
+   |--Testing_Model.ipynb
+```
+  + Data_Variable_Exploration.ipynb is a Jupyter notebboks which has all the prep works and data set exploraytion for our project. Here we closely look at all the initail npy.
+  + Testing_Model.ipynb is a notebooks where we test our differnt models. 
+  
+License : MIT License
 
-### Support or Contact
+```
+|- LSTM_model_final.py
+```
+Our final file to run the project with the display of all the required result.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
