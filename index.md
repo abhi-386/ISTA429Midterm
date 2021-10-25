@@ -3,13 +3,15 @@
 ISTA 429 Midterm project for MCLAS2021
 
 Team Members:
-  -> Sebastian Calleja \n
-  -> Hayden Payne
-  -> Melanie Hannah Grudinsch
-  -> Nik A Pearce
-  -> Abhishek Agarwal
+ - Sebastian Calleja. 
+ - Hayden Payne. 
+ - Melanie Hannah Grudinsch. 
+ - Nik A Pearce. 
+ - Abhishek Agarwal. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.  
 
 ### Markdown
 
