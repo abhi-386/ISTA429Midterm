@@ -2,7 +2,15 @@
 
 ISTA 429 Midterm project for MCLAS2021
 
-Team Members:
+
+**This is a project designed for MLCAS2021 Crop Yield Prediction Challenge.**
+
+
+*In this competition, you will utilize a dataset consisting of 103,365 performance records over 13 years and 150 locations with weekly weather data for each location throughout the growing season of 30 weeks. In particular, you will develop machine learning algorithms that can accurately predict yearly crop yield for a particular performance record. Given the significance of the problem, we believe that our dataset provides an important scientific challenge with widespread applications in plant breeding, crop science research, and agricultural production.*
+
+
+**Team Members:**
+
  - Sebastian Calleja. 
  - Hayden Payne. 
  - Melanie Hannah Grudinsch. 
@@ -10,8 +18,11 @@ Team Members:
  - Abhishek Agarwal. 
 
 
+**Familiarizing with our code repository**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.  
+Before we get started, you must have a updated your python to the newest release. 
+Download or clone our repository from the given link in the readme. 
+
 
 ### Markdown
 
